@@ -2,6 +2,10 @@
 
 By [@backseats_eth](https://twitter.com/backseats_eth)
 
+While you're here, check out [ContractReader.io](https://contractreader.io) – the best way to read and understand smart contracts. ContractReader includes live onchain values, right in the code, security reviews by ChatGPT, and our forthcoming [audit tool](https://contractreader.io/audit-tool)!
+
+---
+
 This repo is an example of a working smart contract (`BigData.sol`) and equivilant tests written in Hardhat and Foundry.
 
 It was inspired by [this tweet](https://twitter.com/backseats_eth/status/1657893582517182465) asking if anyone would like to see how it looks to compare the two toolchains and their tests.
