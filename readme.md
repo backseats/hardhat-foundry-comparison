@@ -10,9 +10,17 @@ I found it initially confusing to write tests in Foundry because of the "magic" 
 
 I hope this repo can help you out. I may add to it over time but make no promises.
 
+## TLDR
+
+There is a `tldr` directory that has three files, if you'd like to skip all of the other stuff and get right to the meat of it all.
+
+* `BigData.sol` – The shared smart contract between the two test suites
+* `BigDataTest.js` – The Hardhat tests
+* `BigData.t.sol` – The Foundry tests
+
 ## TODO:
 
-* Figure out the issue with the input Merkle proof data in the **Foundry** test that causes a "Not on the Allowlist" error when running the test.
+- [ ] Figure out the issue with the input Merkle proof data in the **Foundry** test that causes a "Not on the Allowlist" error when running the test.
 
 ## Contributions
 
