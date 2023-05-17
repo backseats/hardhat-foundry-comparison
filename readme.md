@@ -21,6 +21,7 @@ There is a `tldr` directory that has three files, if you'd like to skip all of t
 ## TODO:
 
 - [ ] Figure out the issue with the input Merkle proof data in the **Foundry** test that causes a "Not on the Allowlist" error when running the test.
+- [ ] Figure out why the Foundry directory isn't accessible in the repo. For now, see `tldr`.
 
 ## Contributions
 
