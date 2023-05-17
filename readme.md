@@ -18,10 +18,15 @@ There is a `tldr` directory that has three files, if you'd like to skip all of t
 * `BigDataTest.js` – The Hardhat tests
 * `BigData.t.sol` – The Foundry tests
 
+## Running The Tests
+
+From the root directory, you can run the following command to run both the Hardhat and the Foundry tests.
+
+ `cd hardhat && npx hardhat test && cd .. && cd foundry && forge test && cd ..`
+
 ## TODO:
 
 - [ ] Figure out the issue with the input Merkle proof data in the **Foundry** test that causes a "Not on the Allowlist" error when running the test.
-- [ ] Figure out why the Foundry directory isn't accessible in the repo. For now, see `tldr`.
 
 ## Contributions
 
